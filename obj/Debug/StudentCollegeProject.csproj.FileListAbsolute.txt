@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\StudentCollegeProject\bin\Debug\StudentCollegeProject.exe.config
+D:\Visual Studio Projects (Training)\StudentCollegeProject\bin\Debug\StudentCollegeProject.exe
+D:\Visual Studio Projects (Training)\StudentCollegeProject\bin\Debug\StudentCollegeProject.pdb
+D:\Visual Studio Projects (Training)\StudentCollegeProject\obj\Debug\StudentCollegeProject.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\StudentCollegeProject\obj\Debug\StudentCollegeProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\StudentCollegeProject\obj\Debug\StudentCollegeProject.exe
+D:\Visual Studio Projects (Training)\StudentCollegeProject\obj\Debug\StudentCollegeProject.pdb
